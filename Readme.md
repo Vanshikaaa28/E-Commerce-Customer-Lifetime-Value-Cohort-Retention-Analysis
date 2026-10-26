@@ -1,4 +1,4 @@
-# E-Commerce Customer Lifetime Value & Cohort Retention Analysis
+# E-Commerce Customer Lifetime Value & Cohort Retention Analysis (Capstone Project)
 
 ## Business Question
 Olist (a Brazilian e-commerce marketplace) has ~96,000 customers, but only a small
@@ -60,4 +60,4 @@ Documenting these upfront rather than glossing over them:
   silently dropped.
 
 ## Author
-Saurav Attri — [LinkedIn](https://linkedin.com/in/sauravattri23) · [GitHub](https://github.com/sauravattri23)
+Vanshika Jaiswal — [LinkedIn](https://www.linkedin.com/in/vanshikaaa/) · [GitHub](https://github.com/Vanshikaaa28)
